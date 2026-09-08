@@ -1,0 +1,38 @@
+[
+  {
+    "titulo": "Oia sunset - panoramio (2).jpg",
+    "urlLicenca": "https://creativecommons.org/licenses/by/3.0",
+    "alteracoes": "Exibição com recorte visual via CSS object-fit: cover.",
+    "autor": "<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20161031135638/http://www.panoramio.com/user/3773936?with_photo_id=118554552\">TomasEE</a>",
+    "arquivo": "grecia.jpg",
+    "origem": "https://commons.wikimedia.org/wiki/File:Oia_sunset_-_panoramio_(2).jpg",
+    "licenca": "CC BY 3.0"
+  },
+  {
+    "titulo": "중화전의_낮.jpg",
+    "urlLicenca": "https://creativecommons.org/licenses/by-sa/4.0",
+    "alteracoes": "Exibição com recorte visual via CSS object-fit: cover.",
+    "autor": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Pem4994&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Pem4994 (page does not exist)\">Eunmi Park</a>",
+    "arquivo": "seoul.jpg",
+    "origem": "https://commons.wikimedia.org/wiki/File:%EC%A4%91%ED%99%94%EC%A0%84%EC%9D%98_%EB%82%AE.jpg",
+    "licenca": "CC BY-SA 4.0"
+  },
+  {
+    "titulo": "Pyramids_of_the_Giza_Necropolis.jpg",
+    "urlLicenca": "https://creativecommons.org/licenses/by-sa/4.0",
+    "alteracoes": "Exibição com recorte visual via CSS object-fit: cover.",
+    "autor": "<a href=\"//commons.wikimedia.org/wiki/User:KennyOMG\" class=\"mw-redirect\" title=\"User:KennyOMG\">KennyOMG</a>",
+    "arquivo": "egito.jpg",
+    "origem": "https://commons.wikimedia.org/wiki/File:Pyramids_of_the_Giza_Necropolis.jpg",
+    "licenca": "CC BY-SA 4.0"
+  },
+  {
+    "titulo": "El_Nido_Bay_December_2018.jpg",
+    "urlLicenca": "https://creativecommons.org/licenses/by-sa/4.0",
+    "alteracoes": "Exibição com recorte visual via CSS object-fit: cover.",
+    "autor": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Kalithecat00&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Kalithecat00 (page does not exist)\">Kalithecat00</a>",
+    "arquivo": "filipinas.jpg",
+    "origem": "https://commons.wikimedia.org/wiki/File:El_Nido_Bay_December_2018.jpg",
+    "licenca": "CC BY-SA 4.0"
+  }
+]
